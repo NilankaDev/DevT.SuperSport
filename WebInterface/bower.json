@@ -1,0 +1,13 @@
+{
+	"name": "asp.net",
+	"private": true,
+  "dependencies": {
+    "angular": "~1.5.8",
+    "angular-bootstrap-show-errors": "2.x",
+    "angular-gettext": "x",
+    "angular-loading-bar": "~0.8.0",
+    "angular-promise-tracker": "x",
+    "angular-resource": "~1.5.8",
+    "angular-route": "~1.5.8"
+  }
+}
